@@ -1,0 +1,26 @@
+.num1{
+    background-color: lightpink;
+    color: black;
+}
+
+.num2{
+    color:blue;
+    font-size : 32px; 
+}
+
+.num3{
+    background-color: lightpink;
+    font-size: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#num4{
+    background-color: greenyellow;
+    font-weight:bold;
+    font-size : 23px;
+}
+
+.num5{
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
